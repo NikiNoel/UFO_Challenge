@@ -17,6 +17,3 @@ When a viewer scrolls below the article, they will have the ability to search ba
 * The website could clean up the data to give the table a more uniform look (capitalizing locations, make the comments consistent and easy to read)
 
 * Could consider changing the format of date to "MM/DD/YYYY" so that international visitors can look for the correct date of a sighting
-
-
-Link to website: https://nikinoel.github.io/UFO_Challenge/
